@@ -1,3 +1,5 @@
+# :white_check_mark: SUCCESS :white_check_mark:
+
 # Gigasecond
 
 Welcome to Gigasecond on Exercism's Rust Track.
